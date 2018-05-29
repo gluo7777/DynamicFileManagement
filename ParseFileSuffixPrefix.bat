@@ -1,5 +1,5 @@
 set python=Python
-set project_root=C:\Users\gluo7\PycharmProjects\DynamicFileManagement
+set project_root=
 set script=ParseFileSuffixPrefix.py
 
 cd %project_root%
